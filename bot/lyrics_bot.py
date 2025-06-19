@@ -1,4 +1,4 @@
-from utils.auth.twitter_auth import get_twitter_client
+from utils.auth.twitter import get_twitter_client
 from utils.reader import reader
 from utils.db import save_lyric, get_last_lyrics
 from datetime import datetime, timezone
