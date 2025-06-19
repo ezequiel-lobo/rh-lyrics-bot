@@ -1,5 +1,5 @@
-# rh-lyrics-bot
-A Python bot that tweets random lyrics from your favorite band. Built with:
+# Radiohead Lyrics Bot
+A Python bot that tweets random lyrics from one of my favorite bands. Built with:
 - **[Python 3.9](https://www.python.org/)**
 - **[Tweepy](https://www.tweepy.org/)**
 - **[gspread](https://gspread.readthedocs.io/)**
